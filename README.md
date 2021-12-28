@@ -39,6 +39,8 @@ predcit the value of salary then return it.
 3. The **COPY** instruction lets us copy a file (or files) from the host system into the image.
 4. There can only be one **CMD** instruction in a Dockerfile . If you list more than one CMD then only the last CMD will take effect. The main purpose of a CMD is to provide defaults for an executing container.
 
+**Note** : pkl file can be generate using simple-linear-regression-for-salary-data.ipynb code
+
 # 6: build the image
 
 Run the below commad
