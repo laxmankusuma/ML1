@@ -160,11 +160,11 @@ testing is done ,now deploy the API
 
 To know url, goto lambda then click on API Gateway.
 
-![image](https://user-images.githubusercontent.com/17021017/147611217-7dbab51b-0c50-463d-8c49-76158b95d23a.png)
+![image](https://user-images.githubusercontent.com/17021017/147637871-c7a94df1-710d-4476-9162-5f30f33e65d0.png)
 
 url is 
 
- https://e8o54zst15.execute-api.ap-south-1.amazonaws.com/beta/prediction
+https://f1m5wbfbi4.execute-api.ap-south-1.amazonaws.com/beta/predict
  
  Now test with RESTer or postman
  
